@@ -55,7 +55,7 @@ Contributions to the LinkStatusChecker project are welcome! If you want to contr
 * Create a pull request from your branch to the main repository.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/HacktiveMindset/Link-Status-Checker/blob/main/LICENSE) file for details.
 
 ## Disclaimer
 
