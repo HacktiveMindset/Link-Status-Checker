@@ -5,6 +5,8 @@
 
 LinkStatusChecker is a Python-based tool that allows users to check the status of URLs (links) to determine whether they are live (active) or dead (not working). The tool utilizes the `requests` library to send HTTP HEAD requests to the provided URLs and inspects the corresponding status codes to determine the link's status.
 
+![img.png](img.png)
+
 ## Features
 
 - User-friendly CLI interface for inputting URLs to be checked.
@@ -17,17 +19,17 @@ LinkStatusChecker is a Python-based tool that allows users to check the status o
 Clone the Repository:
 
    ```
-   git clone https://github.com/HacktiveMindset/Link-Status-Checker.git
+   git clone https://github.com/your_username/LinkStatusChecker.git
 ```
 Install Dependencies:
 ```
-cd Link-Status-Checker
+cd LinkStatusChecker
 
 pip install -r requirements.txt
 ```
 Run the Tool:
 ```
-python LinkStatusChecker.py
+python link_status_checker.py
 
 ```
 The tool will prompt you to enter the URL you want to check. Type "exit" to quit the tool.
